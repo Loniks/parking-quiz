@@ -7,7 +7,7 @@ buildscript {
         junitPlatformVersion = '1.0.0-M6'
         junitJupiterVersion = '5.5.2'
         junitVintageVersion = '5.5.2'
-        junitPlugin = '1.0.0-M6'
+        junitPlugin = '1.2.0'
     }
 
     repositories {
