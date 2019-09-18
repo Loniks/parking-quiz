@@ -5,7 +5,7 @@ buildscript {
     ext {
         kotlin_version = '1.2.71'
         junitPlatformVersion = '1.0.0-M6'
-        junitJupiterVersion = '5.0.0-M6'
+        junitJupiterVersion = '5.5.2'
         junitVintageVersion = '5.5.2'
         junitPlugin = '1.0.0-M6'
     }
